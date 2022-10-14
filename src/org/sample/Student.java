@@ -14,5 +14,8 @@ public class Student {
 		// TODO Auto-generated method stub
 
 	}
+private void student() {
+	// TODO Auto-generated method stub
 
+}
 }
