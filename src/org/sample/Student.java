@@ -10,5 +10,9 @@ public class Student {
 		System.out.println("balu");
 
 	}
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
