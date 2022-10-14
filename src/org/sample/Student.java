@@ -11,4 +11,10 @@ public class Student {
 
 	}
 
+	
+	
+	private void employee() {
+		// TODO Auto-generated method stub
+
+	}
 }
